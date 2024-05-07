@@ -1,4 +1,4 @@
-![4](https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/55bcd772-3312-4566-bda2-2ee5cab4f4d8)![3](https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/ebc8cbf1-c886-4e45-b3db-a8cde140c0f5)# Gaza Strip Electricity Supply
+# Gaza Strip Electricity Supply
 
 The Gaza Strip Electricity Supply Prject is a project that implements a data strucutre using sorted Singly linked list.
 For the past decade, the Gaza Strip has suffered from a chronic electricity deficit, which 
@@ -25,13 +25,16 @@ economy, particularly the manufacturing and agriculture sectors.
 ![4](https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/5f02cdbf-22d9-486e-8329-9316ab5bd814)
 
 ## Search Screen: An option to search for an electricity record by date. 
-![5](https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/46d4e7ec-77e7-4532-947f-b6016ae3f15f)
+<img src="https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/46d4e7ec-77e7-4532-947f-b6016ae3f15f" alt="alt text" width="200"/>
 
 Statistics Screen:
 An option to show statistics for: 
 a. A specific electricity statistic for a given day across all months and years 
+
 b. A specific electricity statistic for a given month across all days and years 
+
 c. A specific electricity statistic for a given year across all days and months 
+
 d. A total statistic for all data. Note: statistics include at least: total(sum), average, 
 maximum, and minimum
 ![6](https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/596da9a9-1c90-4c0a-a84a-4660d51a03ac)
