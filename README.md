@@ -1,28 +1,28 @@
 # Gaza Strip Electricity Supply
 
-The Gaza Strip Electricity Supply Prject is a project that implements a data strucutre using sorted Singly linked list.
+The Gaza Strip Electricity Supply Project is a project that implements a data structure using a sorted Singly linked list.
 
 For the past decade, the Gaza Strip has suffered from a chronic electricity deficit, which 
 undermined already fragile living conditions. The situation has further deteriorated since April 
 2017 in the context of disputes between the de facto authorities in Gaza and the West Bank-based 
 Palestinian Authority. The ongoing power shortage has severely affected the availability of 
-essential services, particularly health, water and sanitation services, and undermined Gaza’s fragile 
+essential services, particularly health, water, and sanitation services, and undermined Gaza’s fragile 
 economy, particularly the manufacturing and agriculture sectors.
 
 ## The following figure shows the overall data structure: 
 ![q](https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/5ae3d8de-bf25-438d-9a76-71ca9107c31f)
 
-The data input for this project will be the electricity data obtained from OCHA in a csv file 
-(Electricity.csv attached)(note: this file is a normal text file; you can open it using notepad). Each line 
-in this file contains a daily electricity record (Date, Israeli_Lines_MWs, Gaza_Power_Plant_MWs, 
+The data input for this project will be the electricity data obtained from OCHA in a CSV file 
+(Electricity.csv attached)(note: this file is a normal text file; you can open it using Notepad). Each line 
+this file contains a daily electricity record (Date, Israeli_Lines_MWs, Gaza_Power_Plant_MWs, 
 Egyptian_Lines_MWs, Total_daily_Supply_available_in_MWs, Overall_demand_in_MWs, 
-Power_Cuts_hours_day_400mg, and Temp) separated by comma (,). 
+Power_Cuts_hours_day_400mg, and Temp) separated by a comma (,). 
 
 # Project Design
 ## Main Screen
 <img src="https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/68ad2b49-5152-48f4-ae1d-acc348450738" alt="Capture" width="700"/>
 
-## Insert Screen: An option to insert new electricity record. 
+## Insert Screen: An option to insert a new electricity record. 
 <img src="https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/fcf6d443-0ae3-4020-86bc-e859a37358bd" alt="2" width="700"/>
 
 ## Delete Screen: An option to Delete an electricity record. 
