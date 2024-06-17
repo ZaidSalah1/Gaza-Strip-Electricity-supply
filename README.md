@@ -11,6 +11,7 @@ economy, particularly the manufacturing and agriculture sectors.
 
 ## The following figure shows the overall data structure: 
 ![q](https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/5ae3d8de-bf25-438d-9a76-71ca9107c31f)
+
 The data input for this project will be the electricity data obtained from OCHA in a csv file 
 (Electricity.csv attached)(note: this file is a normal text file; you can open it using notepad). Each line 
 in this file contains a daily electricity record (Date, Israeli_Lines_MWs, Gaza_Power_Plant_MWs, 
