@@ -24,7 +24,7 @@ Power_Cuts_hours_day_400mg, and Temp) separated by comma (,).
 ## Insert Screen: An option to insert new electricity record. 
 <img src="https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/fcf6d443-0ae3-4020-86bc-e859a37358bd" alt="2" width="700"/>
 
-## Delete Screen: An option to update an electricity record. 
+## Delete Screen: An option to Delete an electricity record. 
 <img src="https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/1241d19d-6881-4a5b-b16f-ca1d1646a390" alt="3" width="700"/>
 <img src="https://github.com/zaidsalah123er/Gaza-Strip-Electricity-supply/assets/89332179/3807bbf0-c792-49ad-a47a-a448327f8b95" alt="3-2" width="700"/>
 
